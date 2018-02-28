@@ -4,6 +4,12 @@
    <name>button_coral-Button coral-Butt</name>
    <tag></tag>
    <elementGuidId>4ca16a8c-6f5e-4ac4-a23e-d14db8467bfe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[matches(@type, 'button') and @title = 'Configure']</value>
+      </entry>
+   </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -22,7 +28,7 @@
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
+      <matchCondition>matches regex</matchCondition>
       <name>type</name>
       <type>Main</type>
       <value>button</value>

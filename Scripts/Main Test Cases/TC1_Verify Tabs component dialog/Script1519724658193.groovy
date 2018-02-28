@@ -28,5 +28,3 @@ WebUI.navigateToUrl(GlobalVariable.G_NavigatedURL)
 
 WebUI.callTestCase(findTestCase('Common Test Cases/Header'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementPresent(findTestObject('Content/Page_/button_coral-Button coral-Butt'), GlobalVariable.G_Timeout)
-
