@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>coral-button-label_Edit</name>
+   <tag></tag>
+   <elementGuidId>b7e58aaf-592f-4fb4-bd11-d43f39e95b80</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>coral-button-label</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>coral-Button-label</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;skipCoral2Validation touch wf-adobeclean-i4-active wf-adobeclean-n3-active wf-adobeclean-n4-active wf-adobeclean-n7-active wf-adobecleancondensed-n4-active wf-adobecleancondensed-n7-active wf-active&quot;]/body[@class=&quot;coral--light shell-collectionpage-view&quot;]/div[@class=&quot;granite-collection-selectionbar foundation-mode-switcher&quot;]/div[@class=&quot;foundation-mode-switcher-item foundation-mode-switcher-item-active&quot;]/coral-actionbar[@class=&quot;granite-selectionbar foundation-collection-actionbar coral-ActionBar&quot;]/coral-actionbar-primary[@class=&quot;coral-ActionBar-primary&quot;]/coral-actionbar-item[@class=&quot;coral-ActionBar-item&quot;]/button[@class=&quot;cq-siteadmin-admin-actions-edit-activator foundation-collection-action coral-Button--graniteActionBar coral-Button coral-Button--quiet&quot;]/coral-button-label[@class=&quot;coral-Button-label&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

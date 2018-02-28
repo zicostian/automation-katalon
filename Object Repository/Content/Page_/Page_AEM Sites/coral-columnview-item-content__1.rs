@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>coral-columnview-item-content__1</name>
+   <tag></tag>
+   <elementGuidId>44be9134-228e-461f-b4d3-73af5c23422e</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>coral-columnview-item-content</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>foundation-collection-item-title coral3-ColumnView-item-content</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>itemprop</name>
+      <type>Main</type>
+      <value>title</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>English</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>English</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;granite-shell-content&quot;)/div[@class=&quot;foundation-layout-panel-bodywrapper&quot;]/div[@class=&quot;foundation-layout-panel-body&quot;]/div[@class=&quot;foundation-layout-panel-content&quot;]/coral-columnview[@class=&quot;cq-siteadmin-admin-childpages foundation-collection foundation-layout-columnview coral3-ColumnView coral3-ColumnView--selection&quot;]/coral-columnview-column[@class=&quot;coral3-ColumnView-column&quot;]/coral-columnview-column-content[@class=&quot;coral3-ColumnView-column-content&quot;]/coral-columnview-item[@class=&quot;foundation-collection-item coral3-ColumnView-item coral3-ColumnView-item--drilldown&quot;]/coral-columnview-item-content[@class=&quot;foundation-collection-item-title coral3-ColumnView-item-content&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
